@@ -44,7 +44,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/voice-translator-app.git
+git clone https://github.com/alt03a/voice-translator-app.git
 cd voice-translator-app
 Run the app:
 
